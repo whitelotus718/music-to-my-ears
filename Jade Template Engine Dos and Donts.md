@@ -1,4 +1,4 @@
-// Img tag
+// Img tag to include pictures
   <img src="https://www.pokeflix.tv/static/thumbnails/02-orange-islands/32.png">
 
 
